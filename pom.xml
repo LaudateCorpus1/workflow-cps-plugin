@@ -115,7 +115,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>support-core</artifactId>
-            <version>2.43</version>
+            <version>1204.v7ee88742a_53f</version>
             <optional>true</optional>
             <exclusions>
                 <exclusion>
